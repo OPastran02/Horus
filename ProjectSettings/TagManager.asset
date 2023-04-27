@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wallpaper
+  - Icon
+  - Windows
+  - IconWindows
+  - Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: wallpaper
+    uniqueID: 2318492553
+    locked: 0
+  - name: Icon
+    uniqueID: 3857339603
+    locked: 0
+  - name: Windows
+    uniqueID: 1293593473
+    locked: 0
+  - name: IconWindows
+    uniqueID: 50746537
+    locked: 0
+  - name: Menu
+    uniqueID: 878215307
+    locked: 0
